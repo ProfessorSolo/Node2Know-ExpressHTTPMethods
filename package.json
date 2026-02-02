@@ -1,5 +1,5 @@
 {
-  "name": "node2know-httpmethods",
+  "name": "node2know-expresshttpmethods",
   "private": true,
   "version": "1.0.0",
   "type": "commonjs",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProfessorSolo/Node2Know-HTTPMethods.git"
+    "url": "git+https://github.com/ProfessorSolo/Node2Know-ExpressHTTPMethods.git"
   },
   "keywords": [],
   "author": "Joshua Solomon",
